@@ -1,1 +1,1 @@
-# chrome_os_pi
+# OS post-installation script
