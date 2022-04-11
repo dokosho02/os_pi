@@ -1,6 +1,10 @@
 
+# instal adb
+sudo apt-get install android-tools-adb
+
 # install pip3
 sudo apt install python3-pip
+
 
 
 # install kotlin
