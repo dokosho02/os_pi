@@ -1,6 +1,9 @@
 
 # instal adb
 sudo apt-get install android-tools-adb
+# download android apk from offical website
+wget -O telegram.apk https://telegram.org/dl/android/apk
+adb install telegram.apk
 
 # install pip3
 sudo apt install python3-pip
