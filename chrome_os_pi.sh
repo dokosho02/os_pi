@@ -29,6 +29,15 @@ sudo apt install default-jdk
 # vim support for kotlin
 git clone https://github.com/udalov/kotlin-vim.git ~/.vim/pack/plugins/start/kotlin-vim
 
+---
+
+# install latex
+
+```sh
+sudo apt install texlive-latex-extra
+```
+
+
 
 
 
