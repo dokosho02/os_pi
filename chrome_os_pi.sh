@@ -34,12 +34,5 @@ git clone https://github.com/udalov/kotlin-vim.git ~/.vim/pack/plugins/start/kot
 # install latex
 
 ```sh
-sudo apt install texlive-latex-extra
+sudo apt install texlive-full
 ```
-
-
-
-
-
-# latex
-
