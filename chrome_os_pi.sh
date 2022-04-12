@@ -30,3 +30,7 @@ sudo apt install default-jdk
 git clone https://github.com/udalov/kotlin-vim.git ~/.vim/pack/plugins/start/kotlin-vim
 
 
+
+
+# latex
+
