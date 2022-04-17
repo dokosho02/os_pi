@@ -36,3 +36,18 @@ git clone https://github.com/udalov/kotlin-vim.git ~/.vim/pack/plugins/start/kot
 ```sh
 sudo apt install texlive-full
 ```
+
+
+# install nodejs
+
+sudo apt install nodejs npm
+
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+# install rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+source $HOME/.cargo/env
+
