@@ -29,6 +29,11 @@ sudo apt install default-jdk
 # vim support for kotlin
 git clone https://github.com/udalov/kotlin-vim.git ~/.vim/pack/plugins/start/kotlin-vim
 
+
+sdk list java
+sdk install java 21.3.1.r11-grl 
+gu install native-image
+
 ---
 
 # install latex
